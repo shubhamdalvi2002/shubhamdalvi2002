@@ -14,18 +14,19 @@
 ---
 
 ## Connect with Me
+
 <p align="center">
   <a href="mailto:shubhamdalvi7218@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="40" style="margin: 0 10px;" />
   </a>
   <a href="mailto:finnauracapital@gmail.com">
-    <img src="https://img.icons8.com/color/48/business.png" alt="Business Email" height="40"/>
+    <img src="https://img.icons8.com/color/48/business.png" alt="Business Email" width="40" style="margin: 0 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/shubham-dalvi-8bb31624b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40"/>
+  <a href="https://www.linkedin.com/in/shubham-dalvi-8bb31624b/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" style="margin: 0 10px;" />
   </a>
-  <a href="https://finncap-in.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" height="40"/>
+  <a href="https://finncap-in.vercel.app/">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="40" style="margin: 0 10px;" />
   </a>
 </p>
 
