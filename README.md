@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shubham Dalvi</h1>
+<h1 align="center">Hi, I'm Shubham Dalvi</h1>
 <h3 align="center">MSc Computer Science Student | Developer | Entrepreneur</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Completed **BSc Computer Science**
-- 🎓 Currently pursuing **MSc Computer Science**
-- 💻 Passionate about Web Development & Software Development  
-- 📈 Mutual Fund Distributor & Founder of **FinAura Capital**  
-- 🌱 Learning Advanced Full Stack & System Design  
-- 🧠 Interested in Finance, Stock Market & Business Tech  
+## About Me
+- Completed BSc Computer Science  
+- Currently pursuing MSc Computer Science  
+- Passionate about Web Development and Software Development  
+- Mutual Fund Distributor and Founder of FinAura Capital  
+- Learning Advanced Full Stack Development and System Design  
+- Interested in Finance, Stock Market, and Business Technology  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="mailto:shubhamdalvi7218@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" />
@@ -24,9 +24,6 @@
   <a href="https://www.linkedin.com/in/shubham-dalvi-8bb31624b/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-  <a href="https://github.com/shubhamdalvi2002" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" />
-  </a>
   <a href="https://finncap-in.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" />
   </a>
@@ -34,60 +31,60 @@
 
 ---
 
-## 💼 My Business
-### 💰 FinAura Capital
+## Business
+### FinAura Capital
 A platform focused on financial education and mutual fund consultancy.
 
-- 📊 Investment Guidance  
-- 📘 Financial Learning Resources  
-- 💡 Stock Market Insights  
+- Investment Guidance  
+- Financial Learning Resources  
+- Stock Market Insights  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,python,mysql" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-### ⚙️ Tools & Technologies
+### Tools and Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,electron" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,electron" />
 </p>
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 📦 Inventory Management System
+### Inventory Management System
 - Built using HTML, CSS, JavaScript, and MySQL  
-- Features: Login system, Billing, Stock Management  
+- Features include login system, billing, and stock management  
 
-### 🌐 FinAura Capital Platform
-- Financial learning + investment consultancy platform  
-- Includes authentication & modern UI  
+### FinAura Capital Platform
+- Financial learning and investment consultancy platform  
+- Includes authentication and modern UI  
 
-### 📚 eBook Platform
-- Online reading & paid access system  
-- Secure login + content protection  
+### eBook Platform
+- Online reading and paid access system  
+- Secure login and content protection  
 
-### 🧾 Billing Software (Electron App)
-- Desktop application with inventory & billing  
+### Billing Software (Electron App)
+- Desktop application with inventory and billing system  
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamdalvi2002&show_icons=true&theme=tokyonight" />
 </p>
@@ -98,16 +95,14 @@ A platform focused on financial education and mutual fund consultancy.
 
 ---
 
-## 🎯 Goals
-- 🚀 Build scalable SaaS products  
-- 📊 Grow FinAura Capital  
-- 🌍 Contribute to open-source  
+## Goals
+- Build scalable SaaS products  
+- Grow FinAura Capital into a strong financial platform  
+- Contribute to open-source projects  
 
 ---
 
-## ✨ Fun Fact
-I combine **technology + finance** to build real-world impactful solutions 💡
+## Summary
+Focused on combining technology and finance to build practical, real-world solutions.
 
 ---
-
-⭐️ From <a href="https://github.com/shubhamdalvi2002">shubhamdalvi2002</a>
