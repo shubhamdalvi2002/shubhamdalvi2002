@@ -4,28 +4,28 @@
 ---
 
 ## About Me
-- Completed BSc Computer Science  
-- Currently pursuing MSc Computer Science  
-- Passionate about Web Development and Software Development  
-- Mutual Fund Distributor and Founder of FinAura Capital  
-- Learning Advanced Full Stack Development and System Design  
-- Interested in Finance, Stock Market, and Business Technology  
+- Completed BSc Computer Science
+- Currently pursuing MSc Computer Science
+- Passionate about Web Development and Software Development
+- Mutual Fund Distributor and Founder of FinAura Capital
+- Learning Advanced Full Stack Development and System Design
+- Interested in Finance, Stock Market, and Business Technology
 
 ---
 
 ## Connect with Me
 <p align="center">
   <a href="mailto:shubhamdalvi7218@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" />
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" height="40"/>
   </a>
   <a href="mailto:finnauracapital@gmail.com">
-    <img src="https://img.icons8.com/color/48/business.png" />
+    <img src="https://img.icons8.com/color/48/business.png" alt="Business Email" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/shubham-dalvi-8bb31624b/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
+  <a href="https://www.linkedin.com/in/shubham-dalvi-8bb31624b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://finncap-in.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" />
+  <a href="https://finncap-in.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" height="40"/>
   </a>
 </p>
 
@@ -35,9 +35,9 @@
 ### FinAura Capital
 A platform focused on financial education and mutual fund consultancy.
 
-- Investment Guidance  
-- Financial Learning Resources  
-- Stock Market Insights  
+- Investment Guidance
+- Financial Learning Resources
+- Stock Market Insights
 
 ---
 
@@ -45,22 +45,22 @@ A platform focused on financial education and mutual fund consultancy.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,mysql" alt="Languages"/>
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" alt="Web Development"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database"/>
 </p>
 
 ### Tools and Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,electron" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,electron" alt="Tools"/>
 </p>
 
 ---
@@ -68,41 +68,39 @@ A platform focused on financial education and mutual fund consultancy.
 ## Projects
 
 ### Inventory Management System
-- Built using HTML, CSS, JavaScript, and MySQL  
-- Features include login system, billing, and stock management  
+- Built using HTML, CSS, JavaScript, and MySQL
+- Features include login system, billing, and stock management
 
 ### FinAura Capital Platform
-- Financial learning and investment consultancy platform  
-- Includes authentication and modern UI  
+- Financial learning and investment consultancy platform
+- Includes authentication and modern UI
 
 ### eBook Platform
-- Online reading and paid access system  
-- Secure login and content protection  
+- Online reading and paid access system
+- Secure login and content protection
 
 ### Billing Software (Electron App)
-- Desktop application with inventory and billing system  
+- Desktop application with inventory and billing system
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdalvi2002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdalvi2002&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdalvi2002&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdalvi2002&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## Goals
-- Build scalable SaaS products  
-- Grow FinAura Capital into a strong financial platform  
-- Contribute to open-source projects  
+- Build scalable SaaS products
+- Grow FinAura Capital into a strong financial platform
+- Contribute to open-source projects
 
 ---
 
 ## Summary
 Focused on combining technology and finance to build practical, real-world solutions.
-
----
