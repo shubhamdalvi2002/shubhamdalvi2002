@@ -80,9 +80,6 @@ A platform focused on financial education and mutual fund consultancy.
 - Online reading and paid access system
 - Secure login and content protection
 
-### Billing Software (Electron App)
-- Desktop application with inventory and billing system
-
 ---
 
 ## GitHub Stats
