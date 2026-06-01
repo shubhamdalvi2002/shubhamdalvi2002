@@ -8,6 +8,7 @@
 <br/>
 
 <!-- Social Badges -->
+[![Resume](https://img.shields.io/badge/Resume-E2574C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17hDO7wmTr5IQKWvnEmdTe7nP7DNp9fmk/view?usp=drive_link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dalvi-8bb31624b/)
 [![Gmail](https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdalvi7218@gmail.com)
 [![Business](https://img.shields.io/badge/FinAura_Capital-1A56DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finnauracapital@gmail.com)
@@ -180,6 +181,7 @@ Interests: Web Development · Stock Markets · Business Technology · Open Sourc
 I'm open to **internships**, **collaborations**, **freelance projects**, and conversations about **FinTech**, **full-stack development**, or **investment consulting**.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dalvi-8bb31624b/)
+[![Resume](https://img.shields.io/badge/View_My_Resume-E2574C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17hDO7wmTr5IQKWvnEmdTe7nP7DNp9fmk/view?usp=drive_link)
 [![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdalvi7218@gmail.com)
 
 <br/>
