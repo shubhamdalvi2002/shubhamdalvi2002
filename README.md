@@ -12,9 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamdalvi7218@gmail.com)
 [![Business](https://img.shields.io/badge/FinAura_Capital-1A56DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finnauracapital@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubhamdalviportfolio.vercel.app/)
-
-<!-- Profile Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=shubhamdalvi2002&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
+[![FinAura Capital](https://img.shields.io/badge/FinAura_Capital-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://finncap-in.vercel.app/)
 
 </div>
 
